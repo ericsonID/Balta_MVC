@@ -82,3 +82,9 @@ C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin
 C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin\BookStore.Domain.pdb
 C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\obj\Debug\BookStore.Migrations.v2.resources
 C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\obj\Debug\BookStore.Migrations.v3.resources
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin\Microsoft.Practices.Unity.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin\Unity.Mvc5.dll
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin\Microsoft.Practices.Unity.xml
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\Cliente\OneDrive\Área de Trabalho\Console Core\BookStore\BookStore\obj\Debug\BookStore.Migrations._20211204_V1.resources
