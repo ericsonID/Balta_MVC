@@ -9,7 +9,7 @@ namespace BookStore.Migrations
     {
         public Configuration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
         }
 
         protected override void Seed(BookStore.Context.BookStoreDataContext context)
