@@ -3,7 +3,7 @@
     ViewBag.Title = "EditorPartialView";
 }
 
-<h2>EditorPartialView</h2>
+@*<h2>EditorPartialView</h2>*@
 
 <div class="form-group">
     @Html.LabelFor(model => model.Nome)
@@ -21,3 +21,5 @@
     @Html.LabelFor(model => model.CategoriaId)
     @Html.DropDownListFor(m => m.CategoriaId, Model.CategoriaOptions, "Selecione uma Opção...", new { htmlAttributes = new { @class = "form-control" } })
 </div>
+@Html.EditorFor(x => x.Age)
+@Html.ValidationMessageFor(x => x.Age)
